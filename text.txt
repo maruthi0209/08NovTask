@@ -1,0 +1,15 @@
+Display property in bootstrap with breakpoints
+d-{value}
+d-none
+d-inline-block
+d-block
+d-flex
+d-grid
+d-inline-flex
+d-inline-grid
+
+d-{breakpoints}-{value}
+d-sm-{value}
+d-md-{value}
+d-lg-{value}
+d-xl-{value}
